@@ -11,6 +11,8 @@ public class Connect4 {
         //in this bord we have 7 column
         // 6 rows
 
+        
+
         System.out.println("_ + _ + _ + _ + _ + _ + _");
         row = 5;
         while((GameBoard[row][column] == 'x') || (GameBoard[row][column] == 'o')) {
